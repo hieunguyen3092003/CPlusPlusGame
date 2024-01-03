@@ -1,0 +1,10 @@
+﻿  win32_platform.cpp
+C:\Users\hieun\Downloads\Hieu\CPlusPlusGame\PongGame\PongGame\win32_platform.cpp(33,7): error C2182: 'CreateWindowExA': this use of 'void' is not valid
+C:\Users\hieun\Downloads\Hieu\CPlusPlusGame\PongGame\PongGame\win32_platform.cpp(33,7): error C2039: 'lpClassName': is not a member of 'tagWNDCLASSA'
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(1803,16):
+  see declaration of 'tagWNDCLASSA'
+  
+C:\Users\hieun\Downloads\Hieu\CPlusPlusGame\PongGame\PongGame\win32_platform.cpp(33,7): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  C:\Users\hieun\Downloads\Hieu\CPlusPlusGame\PongGame\PongGame\win32_platform.cpp(33,7):
+  The initializer contains too many elements
+  
